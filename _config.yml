@@ -1,0 +1,14 @@
+layout_spectrum: 0.5857837938237935
+typography_spectrum: 0.618083599023521
+color:
+  brandStrength: 0.008508011465892196
+  lightness: 0.40965052181854844
+  saturation: 0.7655928884632885
+  rhythmicContrast: 0.5060980182606727
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: encoding creativity
